@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/navbar-login.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/models/User.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/common/mvNotifier.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvIdentity.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvSignupCtrl.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvNavBarLoginCtrl.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/controllers/users.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvProfileCtrl.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/main/new-courses.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvMyCourses.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/courses/mvCourseDetailCtrl.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/views/index.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/courses/mvCourseListCtrl.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvAuth.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/mvUser.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/courses/mvCourse.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/admin/mvUserListCtrl.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/main/featured-courses.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/models/Course.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/controllers/courses.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/config/mongoose.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/account/signup.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/main/main.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/courses/course-details.jade</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/server/utilities/encryption.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/courses/mvCachedCourses.js</file>
+            <file>file:/Users/ruizou/Downloads/OnlineCourses/public/app/courses/course-list.jade</file>
+        </group>
+    </open-files>
+</project-private>
