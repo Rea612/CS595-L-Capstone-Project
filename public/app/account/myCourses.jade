@@ -6,5 +6,9 @@
 
 .container
     table.table
-        tr(ng-repeat = "course in courses")
-            td {{ course}}
+        thead
+            tr
+                th Title
+        tbody
+            tr(ng-repeat = "course in user.myCourses")
+                td {{ course }}
